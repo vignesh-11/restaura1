@@ -1,0 +1,100 @@
+
+
+Restaurant name : Truffles
+Address : 28, 4th 'B' Cross, Koramangala 5th Block, Bangalore
+Rating : 4.7
+Number of votes : 14726
+Restaurant type : Cafe, Casual Dining
+Cuisines : Cafe, American, Burger, Steak
+Dishes liked : Burgers, Pasta, Cocktails, American Cheese Burger, Chicken Salad, Pancakes, Chocolate Dessert
+Approximate cost for two people : 900.0
+
+
+Restaurant name : Hammered
+Address : 18, Ali Askar Road, Cunningham Road, Bangalore
+Rating : 4.7
+Number of votes : 4845
+Restaurant type : Pub, Cafe
+Cuisines : North Indian, Thai, Japanese, Continental, Cafe
+Dishes liked : Sangria, Chicken Satay, Crispy Corn, Masala Fries, Wood Fire Pizza, Pesto Pasta, Cocktails
+Approximate cost for two people : 1300.0
+
+
+Restaurant name : Truffles
+Address : 84, 80 Feet Road, RMV 2nd Stage, New BEL Road, Bangalore
+Rating : 4.7
+Number of votes : 3916
+Restaurant type : Cafe, Casual Dining
+Cuisines : Cafe, American, Burger, Steak
+Dishes liked : Burgers, Pasta Arrabiata, Ferrero Rocher Milkshake, Veg Pattice, Pesto Pasta, Rolls, Salads
+Approximate cost for two people : 900.0
+
+
+Restaurant name : The Hole in the Wall Cafe
+Address : 4, 8th Main Road, Koramangala 4th Block, Bangalore
+Rating : 4.6
+Number of votes : 7137
+Restaurant type : Cafe
+Cuisines : Cafe, American, Burger
+Dishes liked : Waffles, Healthy Breakfast, English Breakfast, Pancakes, Burgers, Sandwiches, Mushroom Omelette
+Approximate cost for two people : 600.0
+
+
+Restaurant name : ECHOES Koramangala
+Address : Shop 44, 4th B Cross Road, Koramangala 5th Block, Bangalore
+Rating : 4.7
+Number of votes : 3220
+Restaurant type : Cafe, Casual Dining
+Cuisines : Chinese, American, Continental, Italian, North Indian
+Dishes liked : Pasta, Mezze Platter, Momos, Pizza, Waffles, Chocolate Milkshake, Pancakes
+Approximate cost for two people : 750.0
+
+
+Restaurant name : CTR
+Address : 7th Cross, Margosa Road, Malleshwaram, Bangalore
+Rating : 4.8
+Number of votes : 4421
+Restaurant type : Quick Bites
+Cuisines : South Indian
+Dishes liked : Benne Masala Dosa, Filter Coffee, Chai, Butter Masala Dosa, Crispy Vada, Tea, Kesari Bath
+Approximate cost for two people : 150.0
+
+
+Restaurant name : Brahmin's Coffee Bar
+Address : Ranga Rao Road, Near Shankar Mutt, Shankarapura, Near Basavanagudi, Bangalore
+Rating : 4.8
+Number of votes : 2679
+Restaurant type : Quick Bites
+Cuisines : South Indian
+Dishes liked : Filter Coffee, Kesari Bath, Idli Vada, Upma, Badam Milk, Kharabath, Tea
+Approximate cost for two people : 100.0
+
+
+Restaurant name : Mavalli Tiffin Room (MTR)
+Address : 14, Lalbagh Road, Mavalli, Basavanagudi, Bangalore
+Rating : 4.5
+Number of votes : 2896
+Restaurant type : Quick Bites
+Cuisines : South Indian
+Dishes liked : Rava Idli, Filter Coffee, Ghee Masala Dosa, Badam Halwa, Upma, Raita, Rasam Rice
+Approximate cost for two people : 250.0
+
+
+Restaurant name : Vidyarthi Bhavan
+Address : 32, Gandhi Bazaar, Near Gandhi Bazaar Circle, Basavanagudi, Bangalore
+Rating : 4.4
+Number of votes : 4460
+Restaurant type : Quick Bites
+Cuisines : South Indian
+Dishes liked : Filter Kaapi, Filter Coffee, Khara Bhath, Maddur Vada, Crispy Masala Dosa, Kesari Bath, Ghee Masala Dosa
+Approximate cost for two people : 150.0
+
+
+Restaurant name : Veena Stores
+Address : 187, 15th Cross, Margosa Road, Malleshwaram, Bangalore
+Rating : 4.5
+Number of votes : 2416
+Restaurant type : Quick Bites
+Cuisines : South Indian
+Dishes liked : Kesari Bath, Idli Vada, Sweet Pongal, Filter Coffee, Idli Chatni, Idli Chutney, Upma
+Approximate cost for two people : 150.0

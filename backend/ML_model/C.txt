@@ -1,0 +1,150 @@
+
+
+Restaurant name : Byg Brewski Brewing Company
+Address : Behind MK Retail, Sarjapur Road, Bangalore
+Rating : 4.9
+Number of votes : 16832
+Restaurant type : Microbrewery
+Cuisines : Continental, North Indian, Italian, South Indian, Finger Food
+Dishes liked : Cocktails, Butter Chicken, Dahi Kebab, Rajma Chawal, Craft Beer, Teriyaki Fish, Buffalo Wings
+Approximate cost for two people : 1600.0
+
+
+Restaurant name : Koramangala Social
+Address : 118, Koramangala Industrial Area, Koramangala 7th Block, Bangalore
+Rating : 4.6
+Number of votes : 4714
+Restaurant type : Lounge
+Cuisines : American, North Indian, Chinese, Finger Food
+Dishes liked : Manchow Soup, Caramel Custard, Cocktails, Bbq Platter, Pork Ribs, Mocktails, Paratha
+Approximate cost for two people : 1500.0
+
+
+Restaurant name : Brooks and Bonds Brewery
+Address : 4, 100 Feet Road, Koramangala 5th Block, Bangalore
+Rating : 4.5
+Number of votes : 3996
+Restaurant type : Casual Dining, Microbrewery
+Cuisines : Continental, Mediterranean, North Indian, Chinese, Finger Food
+Dishes liked : Beef Chilli, Salad, Cocktails, Pizza, Craft Beer, Mango Cider, Potato Wedges
+Approximate cost for two people : 1600.0
+
+
+Restaurant name : Gilly's Restobar
+Address : 91, Jyothi Nivas College Road, Koramangala 5th Block, Bangalore
+Rating : 4.5
+Number of votes : 3923
+Restaurant type : Pub, Casual Dining
+Cuisines : Finger Food, Continental, North Indian
+Dishes liked : Thai Crispy Chicken, Mojito, Watermelon Martini, Chicken Biryani, Beef Fry, Cocktails, Calamari
+Approximate cost for two people : 1000.0
+
+
+Restaurant name : The Pallet
+Address : HVP Crest, ITPL Main Road, Whitefield, Bangalore
+Rating : 4.5
+Number of votes : 2745
+Restaurant type : Microbrewery, Pub
+Cuisines : Continental, Mediterranean, Italian, North Indian, Finger Food, Asian, Momos
+Dishes liked : Craft Beer, Wine, Chilli Chicken, Wedges, Lamb, Cocktails, Masala Peanuts
+Approximate cost for two people : 1600.0
+
+
+Restaurant name : AB's - Absolute Barbecues
+Address : 100 Feet Road, 1st Phase, Near Jayadeva Flyover, 2nd Stage, BTM, Bangalore
+Rating : 4.9
+Number of votes : 6490
+Restaurant type : Casual Dining
+Cuisines : European, Mediterranean, North Indian, BBQ
+Dishes liked : Tangdi Chicken, Bbq Buffet, Chocolate Icecreams, Kofta Curry, Mutton Seekh Kabab, Paneer Curry, Mutton Keema
+Approximate cost for two people : 1600.0
+
+
+Restaurant name : AB's - Absolute Barbecues
+Address : 90/4, 3rd Floor, Outer Ring Road, Munnekollaly Village, Marathahalli, Bangalore
+Rating : 4.8
+Number of votes : 12121
+Restaurant type : Casual Dining
+Cuisines : European, Mediterranean, North Indian, BBQ
+Dishes liked : Raj Kachori, Paan Kulfi, Churros, Butter Chicken, Momos, Bbq Prawns, Pudding
+Approximate cost for two people : 1600.0
+
+
+Restaurant name : The Black Pearl
+Address : 20/7, Swamy Legato, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bangalore
+Rating : 4.8
+Number of votes : 7284
+Restaurant type : Casual Dining, Bar
+Cuisines : North Indian, European, Mediterranean, BBQ
+Dishes liked : Dahipuri, Jal-jeera, Jalebi Rabri, Chicken Grill, Mutton Seekh Kabab, Mutton Curry, Chocolate Sandwich
+Approximate cost for two people : 1500.0
+
+
+Restaurant name : The Black Pearl
+Address : 105, 1st A Cross Road, Jyothi Nivas College Road, Koramangala 5th Block, Bangalore
+Rating : 4.7
+Number of votes : 10550
+Restaurant type : Casual Dining, Bar
+Cuisines : North Indian, European, Mediterranean
+Dishes liked : Chocolate Lollipop, Chocolate Biscuit, Fire Shots, Sangria, Chocolate Ganache, Paneer Makhani, Corn Fry
+Approximate cost for two people : 1400.0
+
+
+Restaurant name : The Boozy Griffin
+Address : 20/7, 4th & 5th Floor, Swamy Legato, Outer Ring Road, Kadubeesanahalli, Marathahalli, Bangalore
+Rating : 4.8
+Number of votes : 4705
+Restaurant type : Pub
+Cuisines : European, Continental
+Dishes liked : Singapore Sling, Sea Food Platter, Cocktails, Long Island Iced Tea, Vanilla Ice Cream, Martini, Ghee Rice
+Approximate cost for two people : 1800.0
+
+
+Restaurant name : Dyu Art Cafe
+Address : 23, Near Mangala Kalyana Mantapa, MIG, KHB Colony, Koramangala 5th Block, Bangalore
+Rating : 4.5
+Number of votes : 3854
+Restaurant type : Cafe
+Cuisines : Cafe, Italian, Fast Food
+Dishes liked : Coffee, Chocolate Mocha, Hot Chocolate, Chocolate Cake, Sandwiches, Pizza, Bannoffee Pie
+Approximate cost for two people : 800.0
+
+
+Restaurant name : LOFT38
+Address : 763, Near Sony World, 100 Feet Road, Indiranagar, Bangalore
+Rating : 4.3
+Number of votes : 3659
+Restaurant type : Lounge, Casual Dining
+Cuisines : Italian, BBQ, Asian, Fast Food
+Dishes liked : Cocktails, Mushroom Pizza, Pork Ribs, Mocktails, Nachos, Sea Food, Long Island Iced Tea
+Approximate cost for two people : 1900.0
+
+
+Restaurant name : Hari Super Sandwich
+Address : 177/A-44, 22nd Cross, 3rd Block, Jayanagar, Bangalore
+Rating : 4.4
+Number of votes : 1833
+Restaurant type : Quick Bites
+Cuisines : Fast Food, Street Food
+Dishes liked : Sandwiches, Chocolate Sandwich, Potato Twister, Sev Puri, Corn Sandwich, Cheese Sandwich, Panipuri
+Approximate cost for two people : 200.0
+
+
+Restaurant name : Al Amanah Cafe
+Address : 20, 5th Avenue, 5th Main Road, Kammanahalli, Bangalore
+Rating : 4.4
+Number of votes : 1514
+Restaurant type : Quick Bites
+Cuisines : Middle Eastern, Fast Food, Rolls
+Dishes liked : Rolls, Falafel Roll, Jumbo Chicken Roll, Chicken Kudu Roll, Spicy Roll, Mutton Roll, Shawarma
+Approximate cost for two people : 300.0
+
+
+Restaurant name : Dice N Dine
+Address : 71/72, The Elite, 5th Block, Jyoti Nivas College Road, Koramangala 5th Block, Bangalore
+Rating : 4.3
+Number of votes : 1810
+Restaurant type : Casual Dining, Cafe
+Cuisines : Continental, Cafe, Italian, Fast Food, Steak
+Dishes liked : Lasagne, Tiramisu, Chicken Popcorn, Mocktails, Club Chicken Sandwich, Nachos, Pasta
+Approximate cost for two people : 900.0

@@ -1,0 +1,1 @@
+Now, we inspect the approximate cost for two people at restaurants in your specified locality. This graph should give you a clearer picture of how you must price your menu to satisfy the local crowd.

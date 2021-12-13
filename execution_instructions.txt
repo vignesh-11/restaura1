@@ -1,0 +1,25 @@
+The application is divided into 3 parts :- 
+
+1) Client - serves the frontend to user
+2) Leaderboard backend
+3) Prediction backend
+
+Execution instruction for the above are:-
+
+1) Client
+	a) cd into Client
+	b) run "npm install" in terminal
+	c) run "npm start" in terminal
+	d) the frontend will open on local host port:3000 in browser
+
+2) Leaderboard backend
+	a) cd into leaderboard
+	b) run "pip install -r requirements.txt" in terminal
+	c) run "python3 app.py" in terminal
+	
+3) Prediction backend
+	a) cd into prediction/ML_model
+	b) run "pip install -r requirements.txt" in terminal
+	c) run "python3 app.py" in terminal
+
+Note - All the services must be run simultaneously.

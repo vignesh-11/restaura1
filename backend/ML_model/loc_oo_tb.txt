@@ -1,0 +1,1 @@
+In this section, we look at the restaurants that conform to the features/standards (such as online order and online table booking) of online platforms(such as Zomato, Swiggy, etc.) in the location specified by you.

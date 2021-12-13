@@ -1,0 +1,1 @@
+In this section, we analyze the foody areas of Bengaluru. First, we look at the number of restaurants present in each of these areas. In the second graph, we look at the quality standards of the restaurants in the areas of Bengaluru. We shall also factor in the restaurant cost for two people in the second graph. This graph will give you an idea of the competition in Bengaluru.

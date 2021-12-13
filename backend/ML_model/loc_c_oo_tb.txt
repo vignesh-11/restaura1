@@ -1,0 +1,1 @@
+Now, we look at restaurants with similar cuisine(s) as yours, that are in your specified locality and see whether they conform to the features/standards of online platforms. 
